@@ -1,0 +1,1 @@
+Palindrom file checking if a given word is a palindrome,meaning a word, phrase, or sequence that reads the same backwards as forwards, e.g. madam or nurses run.
